@@ -1,0 +1,24 @@
+{
+  "name": "aquatic-api",
+  "version": "1.0.0",
+  "description": "API for my personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "lol nope"
+  },
+  "repository": {
+    "type": "git",
+    "url": "to be made"
+  },
+  "keywords": [
+    "Personal",
+    "API"
+  ],
+  "author": "Mihai Dumitru",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  }
+}
